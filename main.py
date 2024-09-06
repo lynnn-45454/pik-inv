@@ -7,7 +7,7 @@ import asyncio
 import aiohttp
 import uuid
 from rich import print_json
-from urllib.parse import urlparse, parse_qs
+
 
 
 DEBUG_MODE = False  # Debug模式，是否打印请求返回信息
